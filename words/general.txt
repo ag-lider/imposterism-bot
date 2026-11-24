@@ -1,0 +1,10 @@
+Kangaroo|Boxer
+Guitar|Violin
+Coffee|Tea
+Sun|Moon
+River|Ocean
+Laptop|Tablet
+Bicycle|Motorcycle
+Doctor|Nurse
+Winter|Autumn
+Library|Bookstore

@@ -1,0 +1,40 @@
+Compiler|Interpreter
+Linux|Windows
+Telegram|Discord
+GitHub|GitLab
+Python|C++
+Router|Modem
+RAM|SSD
+Encryption|Hashing
+Server|Client
+Keyboard|Mouse
+Monitor|Projector
+Smartphone|Smartwatch
+Bluetooth|Wi-Fi
+Database|Spreadsheet
+Algorithm|Flowchart
+Firewall|Antivirus
+Processor|Graphics Card
+Battery|Charger
+Headphones|Speakers
+Browser|Search Engine
+Website|Mobile App
+Cloud|Hard Drive
+Pixel|Vector
+Variable|Constant
+Array|Linked List
+Pointer|Reference
+Loop|Recursion
+Function|Class
+Terminal|IDE
+Bug|Virus
+Update|Upgrade
+Download|Upload
+Password|PIN Code
+Robot|Drone
+Virtual Reality|Augmented Reality
+Blockchain|Cryptocurrency
+Pixel|Resolution
+Webcam|Microphone
+USB|HDMI
+Linux|macOS

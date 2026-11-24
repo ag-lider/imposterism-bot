@@ -1,0 +1,40 @@
+Samarqand|Buxoro
+Choyxona|Restoran
+Tandoor|Kazan
+Atlas|Adras
+Registon|Ichan Qala
+Doira|Rubob
+Navruz|Mustaqillik
+Toshkent|Xiva
+Sumalak|Halva
+Amir Temur|Alisher Navoiy
+Non|Patir
+Qurt|Pishloq
+Chorsu|Oloy Bozori
+Chimyon|Amirsoy
+Orol Dengizi|Charvoq
+Sirdaryo|Amudaryo
+Beshik|Sandiqq
+Chopon|Do'ppi
+Karnay|Surnay
+Kurash|Boks
+Mahalla|Qo'shni
+Paxta|Ipak
+Anor|Uzum
+Qovun|Tarvuz
+Moshkichiri|Mastava
+Norin|Xonim
+Qazi|Hasip
+Ko'k Choy|Qora Choy
+Piyola|Choynak
+Ko'rpacha|Yostiq
+Zardushtiylik|Ipak Yo'li
+Ulug'bek|Ibn Sino
+Bobur|Jaloliddin Manguberdi
+Farg'ona|Andijon
+Namangan|Qo'qon
+Termiz|Qarshi
+Nukus|Urganch
+Metro|Avtobus
+Osh|Dimlama
+Bahor|Yoz
